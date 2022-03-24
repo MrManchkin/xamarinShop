@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:rent="clr-namespace:rent"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            x:Class="rent.MainPage"
+            BackgroundColor="White">
+    
+    <rent:Page1 Title="User" IconImageSource="user.png"></rent:Page1>
+    <rent:Page2 Title="Product" IconImageSource="product.png"></rent:Page2>
+    <rent:Page3 Title="Basket" IconImageSource="basket.png"></rent:Page3>
+
+</TabbedPage>
+

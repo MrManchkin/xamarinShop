@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="rent.Page2">
+    <StackLayout BackgroundColor="White" VerticalOptions="FillAndExpand">
+        <StackLayout BackgroundColor="#2196F3" HeightRequest="120">
+            <Frame
+                Margin="20"
+                BackgroundColor="#92CEFD"
+                CornerRadius="10"
+                HeightRequest="300"
+                TranslationY="-20">
+                <StackLayout Orientation="Horizontal">
+
+                    <Frame
+                        Margin="0,0,10,0"
+                        Padding="10"
+                        BackgroundColor="#2196F3"
+                        BorderColor="#2196F3"
+                        CornerRadius="40"
+                        HasShadow="True"
+                        HeightRequest="40"
+                        IsClippedToBounds="True"
+                        WidthRequest="30">
+                        <Image Source="Product.png"/>
+                    </Frame>
+                    <StackLayout>
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span
+                                        FontAttributes="Bold"
+                                        FontSize="Body"
+                                        Text="Any things"
+                                        TextColor="#FFFFFF" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                        <Label
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="favorite things are only here!" TextColor="#7FFFFFFF"/>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+        <ScrollView Padding="10,5,10,0">
+
+            <Frame 
+                BackgroundColor="#92CEFD"
+                CornerRadius="40"
+                HeightRequest="400"
+                TranslationY="0">
+                <StackLayout>
+                        <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+                            <Frame 
+                                BackgroundColor="AliceBlue"
+                                CornerRadius="30"
+                                HeightRequest="10"/>
+                            <Label HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                               x:Name="product1"
+                               TranslationX="-50"
+                               Text="Adrenalin" FontSize="20"
+                               TextColor="#373737"/>
+                            <Label HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand"
+                               x:Name="price1"
+                               TranslationX="-50"
+                               Text="1" FontSize="24"
+                               TextColor="#373737"/>
+                            <Image Source="can.png"
+                               WidthRequest="40"
+                               TranslationY="5"
+                               TranslationX="5"
+                               HorizontalOptions="StartAndExpand"
+                               VerticalOptions="StartAndExpand"/>
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_1"/>
+                            </Grid.GestureRecognizers>
+                        </Grid>
+                        <StackLayout Padding="0,20,0,0"/>
+                        <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+                            <Frame 
+                                BackgroundColor="AliceBlue"
+                                CornerRadius="30"
+                                HeightRequest="10"/>
+                            <Label HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                               x:Name="product2"
+                               TranslationX="-50"
+                               Text="Beer" FontSize="20"
+                               TextColor="#373737"/>
+                            <Label HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand"
+                               x:Name="price2"
+                               TranslationX="-50"
+                               Text="1" FontSize="24"
+                               TextColor="#373737"/>
+                            <Image Source="beer.png"
+                               WidthRequest="40"
+                               TranslationY="5"
+                               TranslationX="5"
+                               HorizontalOptions="StartAndExpand"
+                               VerticalOptions="StartAndExpand"/>
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_2"/>
+                            </Grid.GestureRecognizers>
+                        </Grid>
+                        <StackLayout Padding="0,20,0,0"/>
+                        <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+                            <Frame 
+                                BackgroundColor="AliceBlue"
+                                CornerRadius="30"
+                                HeightRequest="10"/>
+                            <Label HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                               x:Name="product3"
+                               TranslationX="-50"
+                               Text="Fish" FontSize="20"
+                               TextColor="#373737"/>
+                            <Label HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand"
+                               x:Name="price3"
+                               TranslationX="-50"
+                               Text="2" FontSize="24"
+                               TextColor="#373737"/>
+                            <Image Source="fish.png"
+                               WidthRequest="40"
+                               TranslationY="5"
+                               TranslationX="5"
+                               HorizontalOptions="StartAndExpand"
+                               VerticalOptions="StartAndExpand"/>
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_3"/>
+                            </Grid.GestureRecognizers>
+                        </Grid>
+                        <StackLayout Padding="0,20,0,0"/>
+                        <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+                            <Frame 
+                                BackgroundColor="AliceBlue"
+                                CornerRadius="30"
+                                HeightRequest="10"/>
+                            <Label HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                               x:Name="product4"
+                               TranslationX="-50"
+                               Text="Vodka" FontSize="20"
+                               TextColor="#373737"/>
+                            <Label HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand"
+                               x:Name="price4"
+                               TranslationX="-50"
+                               Text="5" FontSize="24"
+                               TextColor="#373737"/>
+                            <Image Source="vodka.png"
+                               WidthRequest="40"
+                               TranslationY="5"
+                               TranslationX="5"
+                               HorizontalOptions="StartAndExpand"
+                               VerticalOptions="StartAndExpand"/>
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_4"/>
+                            </Grid.GestureRecognizers>
+                        </Grid>
+                    </StackLayout>
+            </Frame>
+        </ScrollView>
+        <Grid HorizontalOptions="CenterAndExpand" >
+            <Frame 
+                BackgroundColor="#92CEFD"
+                CornerRadius="100"
+                WidthRequest="50"
+                TranslationY="50"
+                HasShadow="False">
+                <Label HorizontalOptions="CenterAndExpand"
+                   x:Name="amount"
+                   Text="0"
+                   FontSize="20"
+                   TranslationY="-10"
+                   TextColor="#1B212A"
+                       /> <!--Количество добавленный продуктов-->
+            </Frame>
+            <Label HorizontalOptions="StartAndExpand"
+                   Text="Amount product: "
+                   TranslationY="60"
+                   TranslationX="20"
+                   FontSize="20"
+                   TextColor="#373737"/>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

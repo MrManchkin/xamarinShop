@@ -1,0 +1,100 @@
+D:\rent\rent\bin\Debug\netstandard2.0\rent.deps.json
+D:\rent\rent\bin\Debug\netstandard2.0\rent.dll
+D:\rent\rent\bin\Debug\netstandard2.0\rent.pdb
+D:\rent\rent\obj\Debug\netstandard2.0\rent.csproj.AssemblyReference.cache
+D:\rent\rent\obj\Debug\netstandard2.0\rent.GeneratedMSBuildEditorConfig.editorconfig
+D:\rent\rent\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\rent\rent\obj\Debug\netstandard2.0\LoginUI.xaml.g.cs
+D:\rent\rent\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\rent\rent\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\rent\rent\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\rent\rent\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+D:\rent\rent\obj\Debug\netstandard2.0\RegisterUI.xaml.g.cs
+D:\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfoInputs.cache
+D:\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfo.cs
+D:\rent\rent\obj\Debug\netstandard2.0\rent.csproj.CoreCompileInputs.cache
+D:\rent\rent\obj\Debug\netstandard2.0\XamlC.stamp
+D:\rent\rent\obj\Debug\netstandard2.0\rent.dll
+D:\rent\rent\obj\Debug\netstandard2.0\refint\rent.dll
+D:\rent\rent\obj\Debug\netstandard2.0\rent.pdb
+D:\rent\rent\obj\Debug\netstandard2.0\ref\rent.dll
+C:\Users\мвидео\Desktop\rent\rent\bin\Debug\netstandard2.0\rent.deps.json
+C:\Users\мвидео\Desktop\rent\rent\bin\Debug\netstandard2.0\rent.dll
+C:\Users\мвидео\Desktop\rent\rent\bin\Debug\netstandard2.0\ref\rent.dll
+C:\Users\мвидео\Desktop\rent\rent\bin\Debug\netstandard2.0\rent.pdb
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\rent.csproj.AssemblyReference.cache
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\rent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\LoginUI.xaml.g.cs
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\RegisterUI.xaml.g.cs
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfoInputs.cache
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfo.cs
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\rent.csproj.CoreCompileInputs.cache
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\rent.dll
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\ref\rent.dll
+C:\Users\мвидео\Desktop\rent\rent\obj\Debug\netstandard2.0\rent.pdb
+D:\Visual Studio\Project\rent\rent\bin\Debug\netstandard2.0\rent.deps.json
+D:\Visual Studio\Project\rent\rent\bin\Debug\netstandard2.0\rent.dll
+D:\Visual Studio\Project\rent\rent\bin\Debug\netstandard2.0\ref\rent.dll
+D:\Visual Studio\Project\rent\rent\bin\Debug\netstandard2.0\rent.pdb
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\rent.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\rent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\LoginUI.xaml.g.cs
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\RegisterUI.xaml.g.cs
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfoInputs.cache
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfo.cs
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\rent.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\rent.dll
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\ref\rent.dll
+D:\Visual Studio\Project\rent\rent\obj\Debug\netstandard2.0\rent.pdb
+C:\pro\rent\rent\bin\Debug\netstandard2.0\rent.deps.json
+C:\pro\rent\rent\bin\Debug\netstandard2.0\rent.dll
+C:\pro\rent\rent\bin\Debug\netstandard2.0\ref\rent.dll
+C:\pro\rent\rent\bin\Debug\netstandard2.0\rent.pdb
+C:\pro\rent\rent\obj\Debug\netstandard2.0\rent.csproj.AssemblyReference.cache
+C:\pro\rent\rent\obj\Debug\netstandard2.0\rent.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\rent\rent\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\pro\rent\rent\obj\Debug\netstandard2.0\LoginUI.xaml.g.cs
+C:\pro\rent\rent\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\pro\rent\rent\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\pro\rent\rent\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\pro\rent\rent\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\pro\rent\rent\obj\Debug\netstandard2.0\RegisterUI.xaml.g.cs
+C:\pro\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfoInputs.cache
+C:\pro\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfo.cs
+C:\pro\rent\rent\obj\Debug\netstandard2.0\rent.csproj.CoreCompileInputs.cache
+C:\pro\rent\rent\obj\Debug\netstandard2.0\XamlC.stamp
+C:\pro\rent\rent\obj\Debug\netstandard2.0\rent.dll
+C:\pro\rent\rent\obj\Debug\netstandard2.0\ref\rent.dll
+C:\pro\rent\rent\obj\Debug\netstandard2.0\rent.pdb
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\bin\Debug\netstandard2.0\rent.deps.json
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\bin\Debug\netstandard2.0\rent.dll
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\bin\Debug\netstandard2.0\rent.pdb
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\rent.csproj.AssemblyReference.cache
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\rent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\LoginUI.xaml.g.cs
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\RegisterUI.xaml.g.cs
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfoInputs.cache
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\rent.AssemblyInfo.cs
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\rent.csproj.CoreCompileInputs.cache
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\rent.dll
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\refint\rent.dll
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\rent.pdb
+C:\Users\Manch\Desktop\itpr\supapp\rent\rent\obj\Debug\netstandard2.0\ref\rent.dll
